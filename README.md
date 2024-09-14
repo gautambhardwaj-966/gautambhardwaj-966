@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautambhardwaj-966&label=Profile%20views&color=0e75b6&style=flat" alt="gautambhardwaj-966" /> </p>
 
-- 🌱 I’m currently learning **React JS, JAVASCRIPT, TYPESCRIPT ,REDUX ,SQL ,NODE JS , MongoDB**
+- 🌱 I’m currently learning **React JS, JAVASCRIPT, TYPESCRIPT ,REDUX ,SQL ,NODE JS , GraphQL, MongoDB**
 
-- 💬 Ask me about **React , MERN**
+- 💬 Ask me about **React , MERN, FULLSTACK **
 
 - 📫 How to reach me **gautambhardwaj9661@gmail.com**
 
